@@ -5,3 +5,5 @@ x0rz  security (收集方程式攻击武器)
 knownsec 知道创宇
 
 NextSecurity 以色列 有很多boot/rootkit库
+
+bootkitsbook boot/rootkits 书籍资料
