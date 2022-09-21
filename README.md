@@ -7,3 +7,5 @@ knownsec 知道创宇
 NextSecurity 以色列 有很多boot/rootkit库
 
 bootkitsbook boot/rootkits 书籍资料
+
+Epicccal  长亭牛人，有很多安全相关的知识
