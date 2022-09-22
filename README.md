@@ -11,3 +11,5 @@ bootkitsbook boot/rootkits 书籍资料
 Epicccal  长亭牛人，有很多安全相关的知识
 
 nomi-sec 各种poc库
+
+phith0n 曾经长亭P神
