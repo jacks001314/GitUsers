@@ -15,3 +15,5 @@ nomi-sec 各种poc库
 phith0n 曾经长亭P神
 
 fate0 小米，污点分析工具（php）,设备指纹识别规则
+
+riusksk,https://riusksk.github.io/,很多技术文章，非常不错的
