@@ -20,3 +20,5 @@ riusksk,https://riusksk.github.io/,很多技术文章，非常不错的
 https://security.tencent.com/index.php/blog/msg/143 -----Fuzzing平台建设的研究与设计
 
 https://cloud.tencent.com/developer/article/1594932 -------续Fuzzing在DevSecOps中的应用
+
+googleprojectzero,https://github.com/googleprojectzero ---google Project zero
