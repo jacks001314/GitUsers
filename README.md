@@ -23,4 +23,5 @@ https://cloud.tencent.com/developer/article/1594932 -------续Fuzzing在DevSecOp
 
 googleprojectzero,https://github.com/googleprojectzero ---google Project zero
 
-chromium google chrome浏览器
+chromium google chrome浏览器 
+https://www.chromium.org/developers/design-documents chrome浏览器设计原则
